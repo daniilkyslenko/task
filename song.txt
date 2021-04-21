@@ -1,5 +1,6 @@
 Nay, thou art not dead, Ukraine,
 See, the glory's born again,
+<<<<<<< HEAD
 
 And the skies, O brethren,
 Smile once more!
@@ -11,3 +12,7 @@ And we shall be masters
 Of our homes.
 
 --------------------
+=======
+And the skies, O brethren,
+Smile once more!
+>>>>>>> 4b5b30eb419866adfe3d6b23a6203dae12571670
